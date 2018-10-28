@@ -21,3 +21,12 @@ Pertemuan 3:
 - NUMPY
 - PANDA
 
+Pertemuan 4:
+- DATA Gathering
+- Web Scraping
+
+Pertemuan 5:
+- Data Preparation Preprocessing
+
+Pertemuan 6:
+- Relational Database dan SQL
